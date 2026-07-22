@@ -62,7 +62,7 @@ Kiến trúc đề xuất mang lại các lợi ích sau:
 
 ## Kiến trúc giải pháp
 
-![Kiến trúc hệ thống](images/2-Proposal/aws4.drawio.png)
+![Kiến trúc hệ thống](/images/2-Proposal/aws4.drawio.png)
 
 ## Các dịch vụ AWS sử dụng
 
