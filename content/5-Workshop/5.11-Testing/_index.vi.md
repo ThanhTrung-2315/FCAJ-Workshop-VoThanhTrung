@@ -6,11 +6,16 @@ chapter : false
 pre : " <b> 5.11. </b> "
 ---
 
-# 5.11. Kiểm thử
+
 
 Phần này trình bày quá trình triển khai hoàn chỉnh nền tảng thương mại điện tử Second-Hand Marketplace trên AWS. Đồng thời minh họa các giao diện chính của ứng dụng và giải thích cách từng chức năng tương tác với hạ tầng đám mây đã triển khai, bao gồm Amazon ECS Fargate, Amazon S3, MongoDB Atlas, Amazon Route 53, AWS Certificate Manager (ACM), Application Load Balancer, Amazon CloudWatch, Amazon ECR và AWS CodeBuild.
 
 ---
+## Demo Video
+
+Xem toàn bộ video giới thiệu hệ thống tại đây:
+
+**YouTube:** https://youtu.be/jmZskrHVbGo
 
 # 1. Trang web khách hàng
 

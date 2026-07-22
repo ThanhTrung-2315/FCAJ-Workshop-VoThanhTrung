@@ -6,7 +6,6 @@ chapter = false
 pre = "<b>5.12. </b>"
 +++
 
-# 5.12. Cleanup
 
 ## Overview
 
